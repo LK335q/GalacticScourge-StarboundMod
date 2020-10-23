@@ -2,8 +2,10 @@
 
 	"name" : "galacticscourge",
 	"friendlyName" : "Galactic Scourge",
-	"description" : "New races! Story! Weapons! Stuff! Partially inspired by the Elithian Races mod, check that out too if you haven't already! This mod is currently in very early development.",
+	"description" : "A Starbound expansion mod that aims to add new races, corporations, factions, and a post-vanilla storyline, all expanding upon the base game's lore and gameplay. (CURRENTLY IN VERY EARLY DEVELOPMENT.)
+
+	This mod was initially made using Skittles Race Template.",
 	"author" : "LK335q",
-	"version" : "Alpha Dev"
+	"version" : "Ambiguous Development Phase"
 	
 }
