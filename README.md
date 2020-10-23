@@ -6,7 +6,7 @@ A Starbound expansion mod that aims to add new races, corporations, factions, an
 
 **Nexus**
 
-A monolithic corporation rivaled only by the likes of Letheia, Nexus has their own line of nearly any product imaginable. They are especially well-known among adventurers for manufacturing highly advanced commercial firearms. These range from smart ballistics to variable railguns, precision lasers, wave rifles, and kinetic energy explosives. The technology powering their weapons is a heavily guarded secret, and those few who have dared attempt to learn of this tech were met by Nexus's fearsome private military.
+A monolithic corporation rivaled only by the likes of Letheia, Nexus has their own line of nearly any product imaginable. They are especially well-known among adventurers for manufacturing highly advanced commercial firearms. These range from smart ballistics to variable railguns, precision lasers, wave rifles, and kinetic energy explosives. The technology powering their weapons is a heavily guarded secret, and those few who have dared attempt to learn of this tech were met by Nexus's fearsome military.
 
 **General Munitions**
 
