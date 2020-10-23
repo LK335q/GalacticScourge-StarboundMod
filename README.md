@@ -10,4 +10,4 @@ A monolithic corporation rivaled only by the likes of Letheia, Nexus has their o
 
 **General Munitions**
 
-An arms company that specializes in producing simple, affordable weapons. Almost all firearms manufactured by General Munitions Co. use basic gunpowder-based propellants, and many of their models are heavily based off of old war era weapons from Earth, sometimes with a few modern twists. General Munitions Co. is especially popular with militias and private military companies, as their cheap weapons are easy to quickly arm a large group with. In particular, the Miniknog rebels have over time become one of their largest buyers.
+An arms company that specializes in producing simple, affordable weapons. Almost all firearms manufactured by General Munitions Co. use basic gunpowder-based propellants, and many of their models are heavily based off of old war era weapons from Earth, sometimes with a few modern twists. General Munitions Co. is especially popular with militias and private military companies, as their cheap weapons are easy to quickly arm a large group with.
